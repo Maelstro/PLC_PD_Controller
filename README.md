@@ -1,4 +1,4 @@
-# PLC_PD_Controller
+# PLC - PD Controller
 Projekt wykonany w ramach przedmiotu Sterowanie Dyskretne -  regulowanie położenia kątowego wału silnika DC za pomocą regulatora PD.
 
 Realizacja na sterowniku Mitsubishi FX-3U.
